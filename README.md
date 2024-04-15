@@ -9,9 +9,10 @@ To run this project open 2 different terminals and
 
 On the first terminal run
 
-javac Server.java
-java Server
+1. javac Server.java
+2. java Server
+   
 On the second terminal run
 
-javac Client.java
-java Client
+1. javac Client.java
+2. java Client
